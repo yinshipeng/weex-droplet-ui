@@ -1,0 +1,12 @@
+node_modules
+.DS_Store
+npm-debug.log
+npm-debug.log.*
+.npmrc
+*.log
+platforms
+temp
+.weex_tmp/
+.idea/
+dist/
+build/
